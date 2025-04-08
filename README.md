@@ -1,4 +1,4 @@
-# projets
+# Python-projects
 
 butterfly_spread_margins
 
@@ -20,7 +20,7 @@ Pricing Athena strutured product using predefined but modifiable parameters
 BT_STRAT
 
 Complex trading startegy using several technical indicators + Backtesting
-- importing data from historical datasets in .csv ; accessible in the branch quentinlrc-DATA
+- importing data from historical datasets in .csv ; accessible in the branch DATA
 - POO to set parameters and strategy 
 - backtesting using Backtrader library
 --> Currently doing livetrading with MetaTrader5 using this strategy, still in testing phase with demo account, results soon !
